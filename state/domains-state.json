@@ -2,19 +2,19 @@
   "domains": {
     "ouyushan.dpdns.org": {
       "expiry_date": "2027-10-06",
-      "days_remaining": 345,
+      "days_remaining": 338,
       "renew_before_days": 120,
       "status": "ok",
       "last_action": "permanent",
-      "checked_at": "2026-10-26T10:11:54+00:00"
+      "checked_at": "2026-11-02T12:30:33+00:00"
     },
     "ouyushan.qd.je": {
       "expiry_date": "2027-10-06",
-      "days_remaining": 345,
+      "days_remaining": 338,
       "renew_before_days": 120,
       "status": "ok",
       "last_action": "permanent",
-      "checked_at": "2026-10-26T10:11:54+00:00"
+      "checked_at": "2026-11-02T12:30:33+00:00"
     }
   }
 }
